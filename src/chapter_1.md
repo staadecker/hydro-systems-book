@@ -9,3 +9,5 @@ Hydro systems are *cool*!
 ## An equation
 
 $$a^2 + b^2 = c^2$$
+
+An easy one.   What about $$ e^{i\pi} $$
